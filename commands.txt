@@ -1,0 +1,2 @@
+git init-initialises repository
+git status=list untracked files
