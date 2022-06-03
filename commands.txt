@@ -1,2 +1,3 @@
 git init-initialises repository
-git status=list untracked files
+git status-list untracked files
+git add -A   - adding changes from workspace to staging area
