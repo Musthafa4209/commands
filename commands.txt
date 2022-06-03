@@ -1,3 +1,4 @@
 git init-initialises repository
 git status-list untracked files
 git add -A   - adding changes from workspace to staging area
+git commit -m "any meesage"  - committing changes from staging area to local repository
